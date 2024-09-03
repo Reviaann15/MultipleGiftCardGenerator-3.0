@@ -17,7 +17,7 @@ def g(rolls):
 #interface
 print("Multiple Gift Card Generator")
 print("")
-print("What Giftcard you need to generate?")
+print("What Giftcard do you need to generate?")
 
 tt = input("\nAmazon\nRoblox\nWebkinz\nFortnite\nIMVU\nEbay\nNetflix\niTunes\nPaypal\nVisa\nPokemonTGC\nPlaystation\nSteam\nXbox\nPlayStore\nMinecraft\n\n>")
 
